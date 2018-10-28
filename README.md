@@ -1,15 +1,15 @@
-#VBForums CS Tabbed Web Browser
+# VBForums CS Tabbed Web Browser
 
 This is a proof of concept application that was originally created while helping out members of the online community over at www.vbforums.com. Building on the work that was originally carried out by jmcilhinney, this sample application which is a direct port of the VB.Net Code into C#
 
-#License
+# License
 
 http://gep13.mit-license.org/
 
-#Notes
+# Notes
 The Visual Studio Solution within this repository was created using Visual Studio 2010 Premium.  However, you should still be able to open this in other versions of Visual Studio.
 
-#Known Problems
+# Known Problems
 If you double click on the .sln file and *nothing happens* then, assusming you are using Windows Vista, Windows 7, or Windows Server 2008, and you have UAC turned on, then you will have to make alterations to your setup in order for this to work.  
 
 More information on the necessary configuration changes can be found here:  
